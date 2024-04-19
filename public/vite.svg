@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--custom" width="40" height="40" preserveAspectRatio="xMidYMid meet" viewBox="0 0 256 256">
+
+  <defs>
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#ffcccc"/>
+      <stop offset="100%" stop-color="#ff9999"/>
+    </radialGradient>
+  </defs>
+  <circle cx="128" cy="128" r="120" fill="url(#bgGradient)"/>
+  <path fill="#6699cc" d="M128 10c-31.875 0-60.628 16.98-76.381 42.39C30.648 67.8 24.003 93.162 24 120s6.648 52.2 27.619 67.61C67.372 229.02 96.125 246 128 246s60.628-16.98 76.381-42.39C225.352 172.2 232 146.838 232 120s-6.648-52.2-27.619-67.61C188.628 26.98 159.875 10 128 10zm0 200c-49.708 0-90-40.292-90-90s40.292-90 90-90 90 40.292 90 90-40.292 90-90 90z"/>
+</svg>
