@@ -9,7 +9,7 @@ import AboutUs from "./components/AboutUs";
 import BestDeals from "./components/BestDeals";
 function App() {
   return (
-    <div className="app">
+    <div className="App w-11/12 md:w-4/5 m-auto">
       <Hero />
       <NewestDeals />
       <AboutUs />

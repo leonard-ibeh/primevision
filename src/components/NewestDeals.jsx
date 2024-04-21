@@ -45,11 +45,11 @@ const NewestDeals = () => {
                 <IoBedOutline />
                 <p> 1 gar</p>
               </div>
-              <h1>$110,000</h1>
-              <div>
-                <IoLocateOutline />
-                <p>Kissme florida Us</p>
-              </div>
+            </div>
+            <h1>$110,000</h1>
+            <div>
+              <IoLocateOutline />
+              <p>Kissme, florida Us</p>
             </div>
           </div>
         </div>
