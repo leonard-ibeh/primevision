@@ -20,7 +20,7 @@ const NewestDeals = () => {
     <div className="py-10">
       <p className="px-4 py-1 text-xs bg-yellow-100 w-16 rounded-lg">NEW</p>
       <h1 className="text-4xl font-bold">NEWEST DEALS</h1>
-      <div className="deals grid 2xl:grid-cols-5 gap-8 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 py-10">
+      <div className="deals grid 2xl:grid-cols-5 gap-x-20 gap-8  xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 py-10">
         <div className="deal h-[350px] w-[250px] bg-white drop-shadow-2xl rounded-xl">
           <div className="relative h-[60%]">
             <img
