@@ -49,9 +49,9 @@ const Footer = () => {
             <AiOutlineGithub size={"1.5rem"} />
           </div>
           <p className="p-5 text-sm text-gray-400">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ducimus
-            hic atque maxime aliquam non fuga, eos veritatis et tempora nulla
-            aspernatur cumque doloremque quos ex vel ratione ipsam rem velit.
+            PrimeVision offers top-notch real estate services, including sales,
+            rentals, and property management. Our expert team is dedicated to
+            providing personalized solutions for all your real estate needs.
           </p>
         </div>
       </footer>

@@ -50,7 +50,7 @@ const NewestDeals = () => {
             <h1 className="text-2xl font-semibold">$110,000</h1>
             <div className="flex items-center space-x-2">
               <IoLocateOutline />
-              <p className="text-sm text-gray-600">Kissimmee.Florida US</p>
+              <p className="text-sm text-gray-600">Parkview, Lagos Island.</p>
             </div>
           </div>
         </div>
@@ -80,7 +80,7 @@ const NewestDeals = () => {
             <h1 className="text-2xl font-semibold">$90,000</h1>
             <div className="flex items-center space-x-2">
               <IoLocateOutline />
-              <p className="text-sm text-gray-600">New York City, New York</p>
+              <p className="text-sm text-gray-600">Ikota, Lagos Nigeria</p>
             </div>
           </div>
         </div>
@@ -114,7 +114,7 @@ const NewestDeals = () => {
             <h1 className="text-2xl font-semibold">$150,000</h1>
             <div className="flex items-center space-x-2">
               <IoLocateOutline />
-              <p className="text-sm text-gray-600">Chicago, Illinois</p>
+              <p className="text-sm text-gray-600">Chevron, Lagos Island</p>
             </div>
           </div>
         </div>
@@ -148,9 +148,7 @@ const NewestDeals = () => {
             <h1 className="text-2xl font-semibold">$120,000</h1>
             <div className="flex items-center space-x-2">
               <IoLocateOutline />
-              <p className="text-sm text-gray-600">
-                Philadelphia, Pennsylvania
-              </p>
+              <p className="text-sm text-gray-600">Ikota, Lagos Nigeria</p>
             </div>
           </div>
         </div>
@@ -180,7 +178,7 @@ const NewestDeals = () => {
             <h1 className="text-2xl font-semibold">$70,000</h1>
             <div className="flex items-center space-x-2">
               <IoLocateOutline />
-              <p className="text-sm text-gray-600">San Antonio, Texas</p>
+              <p className="text-sm text-gray-600">Saint Maries Lagos Island</p>
             </div>
           </div>
         </div>
@@ -214,7 +212,7 @@ const NewestDeals = () => {
             <h1 className="text-2xl font-semibold">$110,000</h1>
             <div className="flex items-center space-x-2">
               <IoLocateOutline />
-              <p className="text-sm text-gray-600">Kissimmee.Florida US</p>
+              <p className="text-sm text-gray-600">PackView, Lagos Island</p>
             </div>
           </div>
         </div>
@@ -248,7 +246,7 @@ const NewestDeals = () => {
             <h1 className="text-2xl font-semibold">$110,000</h1>
             <div className="flex items-center space-x-2">
               <IoLocateOutline />
-              <p className="text-sm text-gray-600">Kissimmee.Florida US</p>
+              <p className="text-sm text-gray-600">AjaH, Lagod Island</p>
             </div>
           </div>
         </div>
@@ -282,7 +280,7 @@ const NewestDeals = () => {
             <h1 className="text-2xl font-semibold">$170,000</h1>
             <div className="flex items-center space-x-2">
               <IoLocateOutline />
-              <p className="text-sm text-gray-600">Kissimmee.Florida US</p>
+              <p className="text-sm text-gray-600">Lagos Island</p>
             </div>
           </div>
         </div>
@@ -317,7 +315,7 @@ const NewestDeals = () => {
             <div className="flex items-center space-x-2">
               <IoLocateOutline />
               <p className="text-sm text-gray-600">
-                KSan Francisco, California
+                Victoria Island,Lagos Nigeria.
               </p>
             </div>
           </div>
@@ -352,7 +350,9 @@ const NewestDeals = () => {
             <h1 className="text-2xl font-semibold">$110,000</h1>
             <div className="flex items-center space-x-2">
               <IoLocateOutline />
-              <p className="text-sm text-gray-600">Kissimmee.Florida US</p>
+              <p className="text-sm text-gray-600">
+                Eko Atlantic City, Lagos, Nigeria
+              </p>
             </div>
           </div>
         </div>

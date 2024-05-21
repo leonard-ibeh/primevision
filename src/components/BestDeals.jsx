@@ -28,7 +28,7 @@ const BestDeals = () => {
           <div className="w-full absolute bottom-0 p-4 text-white bg-gradient-to-t form-black rounded-b-xl space-y-2">
             <h1 className="text-3xl font-bold">Place</h1>
             <p className="flex items-center space-x-2 text-sm">
-              <IoLocationOutline /> Kissmi, Florida
+              <IoLocationOutline /> Lekki, Ikata.
             </p>
           </div>
         </div>
@@ -41,7 +41,7 @@ const BestDeals = () => {
           <div className="w-full absolute bottom-0 p-4 text-white bg-gradient-to-t form-black rounded-b-xl space-y-2">
             <h1 className="text-3xl font-bold">Place</h1>
             <p className="flex items-center space-x-2 text-sm">
-              <IoLocationOutline /> Kissmi, Florida
+              <IoLocationOutline /> Bodija, Ibadan.
             </p>
           </div>
         </div>
@@ -54,7 +54,7 @@ const BestDeals = () => {
           <div className="w-full absolute bottom-0 p-4 text-white bg-gradient-to-t form-black rounded-b-xl space-y-2">
             <h1 className="text-3xl font-bold">Place</h1>
             <p className="flex items-center space-x-2 text-sm">
-              <IoLocationOutline /> Kissmi, Florida
+              <IoLocationOutline /> Lekki, Ajah.
             </p>
           </div>
         </div>
@@ -67,7 +67,7 @@ const BestDeals = () => {
           <div className="w-full absolute bottom-0 p-4 text-white bg-gradient-to-t form-black rounded-b-xl space-y-2">
             <h1 className="text-3xl font-bold">Place</h1>
             <p className="flex items-center space-x-2 text-sm">
-              <IoLocationOutline /> Kissmi, Florida
+              <IoLocationOutline /> VGC, Lagos Island.
             </p>
           </div>
         </div>
@@ -93,7 +93,7 @@ const BestDeals = () => {
           <div className="w-full absolute bottom-0 p-4 text-white bg-gradient-to-t form-black rounded-b-xl space-y-2">
             <h1 className="text-3xl font-bold">Place</h1>
             <p className="flex items-center space-x-2 text-sm">
-              <IoLocationOutline /> Kissmi, Florida
+              <IoLocationOutline /> Lagos, Ikeja Villa.
             </p>
           </div>
         </div>
@@ -106,7 +106,7 @@ const BestDeals = () => {
           <div className="w-full absolute bottom-0 p-4 text-white bg-gradient-to-t form-black rounded-b-xl space-y-2">
             <h1 className="text-3xl font-bold">Place</h1>
             <p className="flex items-center space-x-2 text-sm">
-              <IoLocationOutline /> Kissmi, Florida
+              <IoLocationOutline /> Parkview, Lagos Island.
             </p>
           </div>
         </div>

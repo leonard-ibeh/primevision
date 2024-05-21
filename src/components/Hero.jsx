@@ -8,8 +8,6 @@ const Hero = () => {
           <h1 className="text-xl md:text-2xl font-bold">PrimeVision</h1>
           <ul className="flex justify-center">
             <li className="mr-6">Features</li>
-            <li className="mr-6">Features</li>
-            <li className="mr-6">Features</li>
             <li className="mr-2">Trending</li>
             <li className="mr-2">About</li>
           </ul>
